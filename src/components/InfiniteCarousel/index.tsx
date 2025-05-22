@@ -287,7 +287,8 @@ const InfiniteCarousel = () => {
     tag: "Carreira",
     users: "+ de mil alunos"
   }
-  ];
+  ]; 
+  //3
 
   const tags: TagData[] = [
     {
