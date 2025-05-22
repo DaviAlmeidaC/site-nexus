@@ -79,6 +79,214 @@ const InfiniteCarousel = () => {
       tag: "Psicologia pessoal",
       users: "+ de mil alunos"
     },
+     {
+    id: 8,
+    title: 'resolução de conflitos',
+    description: 'Aprenda a identificar, prevenir e resolver conflitos com inteligência emocional e estratégias práticas.',
+    imageUrl: "https://i.ibb.co/JjMFy79b/f63177eb-2cf8-4f85-86b7-f6fedf40941d.png",
+    tag: "Psicologia pessoal",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 9,
+    title: 'Persuasão',
+    description: 'Aprenda as técnicas mais eficazes de persuasão com base em ciência comportamental e estratégias reais.',
+    imageUrl: "https://i.ibb.co/FbbPd6dc/37f2595d-8fa6-4348-b0f6-6e696950eb33.png",
+    tag: "Comunicação",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 10,
+    title: 'Assuntos',
+    description: 'Como puxar os melhores assuntos.',
+    imageUrl: "https://i.ibb.co/v4PDgbVg/2d58233b-7a92-45c8-a6a5-d1dc13d123ec-1.png",
+    tag: "Relacionamento",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 11,
+    title: 'Vendas',
+    description: 'Este curso ensinará desde a abordagem inicial até a finalização da venda, com uma abordagem que prioriza a criação de conexão.',
+    imageUrl: "https://i.ibb.co/Tx7hsxv8/b3074ab3-541b-4824-822c-d67de179a47a.png",
+    tag: "Negócios",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 12,
+    title: 'Comunicação não violenta',
+    description: 'Domine a comunicação não violenta: fortaleça relações, resolva conflitos e lidere com empatia e respeito.',
+    imageUrl: "https://i.ibb.co/prjycmP4/04247359-2621-4523-8512-497aaeefeec1.png",
+    tag: "Empatia",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 14,
+    title: 'Vida social na escola/faculdade',
+    description: 'Dicas sociais reais para fazer amigos e criar conexões de verdade e expandir o seu networking.',
+    imageUrl: "https://i.ibb.co/sJmfBL5G/bbc50481-42da-4997-9292-de76928407af.png",
+    tag: "Juventude",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 15,
+    title: 'Oratória para estudantes',
+    description: 'Como falar bem em trabalhos, apresentações e feiras com confiança.',
+    imageUrl: "https://i.ibb.co/608TzThK/f05a4a2a-bf43-4ff5-9395-975fa82c3d62.png",
+    tag: "Apresentação",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 17,
+    title: 'Aprender mais rápido',
+    description: 'Memorização, revisão ativa e técnicas para estudar de forma inteligente.',
+    imageUrl: "https://i.ibb.co/39xHrGb0/0a073b70-dc78-4667-bcf0-a438f519eaed.png",
+    tag: "Estudo",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 18,
+    title: 'Ser Mãe sem se anular',
+    description: 'Descubra como cuidar da família sem esquecer de si mesma, com equilíbrio emocional.',
+    imageUrl: "https://i.ibb.co/YTNq5M6k/33580324-0cc5-453b-9309-ff855361e678.png",
+    tag: "Família",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 22,
+    title: 'Como ser um pai emocionalmente presente',
+    description: 'Princípios práticos da psicologia para fortalecer o vínculo entre pais e filhos.',
+    imageUrl: "https://i.ibb.co/Kx46T9cY/1a72ece0-aa67-42e2-9f5e-38555850c7be.png",
+    tag: "Família",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 23,
+    title: 'Aprendizado rápido',
+    description: 'Aprenda as melhores técnicas para aprender de maneira rápida e eficiente qualquer conteúdo.',
+    imageUrl: "https://i.ibb.co/NgLv7bJc/39b26126-cc23-404e-a1c6-70d56c6d8424.png",
+    tag: "Estudo",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 24,
+    title: 'ciência da Motivação',
+    description: 'Descubra como manter a motivação mesmo em dias difíceis e transforme sua rotina com técnicas que funcionam.',
+  imageUrl: "https://i.ibb.co/gFSK8LkL/57735970-ef1e-477b-83e6-0f7e6e5d6992.png",
+    tag: "Psicologia pessoal",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 25,
+    title: 'Superando a timidez',
+    description: 'Entenda e controle os gatilhos internos da timidez. Reprograme seus pensamentos, emoções e reações.',
+  imageUrl: "https://i.ibb.co/gLHYQ1gz/efc37e3b-fbb1-412e-b1e6-1a797abc865f.png",
+    tag: "Psicologia pessoal",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 26,
+    title: 'Procrastinação, como superar',
+    description: 'Entenda por que você adia tarefas, como treinar seu cérebro para agir mesmo sem motivação e dominar técnicas de produtividade.',
+    imageUrl: "https://i.ibb.co/yB0JFS79/9269075e-cb0b-4ab7-8e82-0864e70b0daf.png",
+    tag: "Produtividade",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 27,
+    title: 'Ansiedade — Parte 1',
+    description: 'Aprenda a controlar sua ansiedade de dentro pra fora. Descubra o que ela realmente é, por que surge e como dominá-la.',
+    imageUrl: "https://i.ibb.co/kV8HW6RC/54cc16c4-d022-4249-840a-5a6c8a8c08f1.png",
+    tag: "Saúde mental",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 28,
+    title: 'Pitch de vendas',
+    description: 'Aprenda a vender qualquer ideia! Domine técnicas de persuasão, storytelling, fechamento e muito mais.',
+    imageUrl: "https://i.ibb.co/4nkZbt66/14329912-ae31-4218-876f-a62c1740b462.png",
+    tag: "Negócios",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 29,
+    title: 'Mindset — Psicologia do sucesso',
+    description: 'Transforme sua mentalidade, desenvolva sua autoconfiança e comece a crescer de verdade.',
+    imageUrl: "https://i.ibb.co/v6HvqLP5/1e46f1da-45f7-4684-aeb0-c9ebfeef8a80.png",
+    tag: "Psicologia pessoal",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 30,
+    title: 'O corpo fala',
+    description: 'Aprenda a ler gestos, expressões e posturas. O corpo revela tudo que as palavras escondem.',
+    imageUrl: "https://i.ibb.co/wZzDnvym/download-8.jpg",
+    tag: "Comunicação",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 32,
+    title: 'O poder do hábito',
+    description: 'Entenda como os hábitos moldam sua vida — e aprenda a transformá-los de forma definitiva.',
+    imageUrl: "https://i.ibb.co/TxMmyzWV/download-9.jpg",
+    tag: "Hábito",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 33,
+    title: 'Como fazer amigos e influenciar pessoas',
+    description: 'Aprenda os princípios eternos de Dale Carnegie para se tornar mais carismático, influente e socialmente poderoso.',
+    imageUrl: "https://i.ibb.co/9HfJQ9Cm/download-1.webp",
+    tag: "Relacionamento",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 34,
+    title: 'As 48 Leis do Poder',
+    description: 'Descubra as regras ocultas do jogo de poder. Estratégia, persuasão e controle como você nunca viu.',
+    imageUrl: "https://i.ibb.co/k6qWtyy5/shopping.webp",
+    tag: "Estratégia",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 35,
+    title: 'Traição: Superar ou terminar',
+    description: 'Descubra o que acontece com a confiança, o amor e o vínculo depois de uma traição.',
+    imageUrl: "https://i.ibb.co/wZV6TdP2/6c3dba5f-7ab6-44d5-97c7-7e0a0453b32a.png",
+    tag: "Relacionamento",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 37,
+    title: 'Psicologia do Amor',
+    description: 'Entenda o que realmente move, fortalece e sabota os relacionamentos afetivos por dentro.',
+    imageUrl: "https://i.ibb.co/0VFFrYv1/d5eb0dc4-3814-4cc1-9a95-399138b253e3.png",
+    tag: "Relacionamento",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 38,
+    title: 'Sedução',
+    description: 'Aprenda a atrair com presença, autenticidade e respeito — sem jogos.',
+    imageUrl: "https://i.ibb.co/KjFy4zwc/33d7f2a3-9636-407c-8fe5-5fcc20ef8423.png",
+    tag: "Relacionamento",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 39,
+    title: 'Argumentação',
+    description: 'Aprenda a argumentar com clareza, lógica e persuasão. Use sua voz como ferramenta de influência e diálogo.',
+    imageUrl: "https://i.ibb.co/chfJX3xQ/a91cbc03-b2f5-4502-90c6-5df404924eeb.png",
+    tag: "Comunicação",
+    users: "+ de mil alunos"
+  },
+  {
+    id: 40,
+    title: 'Entrevista de emprego',
+    description: 'Como se comportar em uma entrevista de emprego? Aprenda as melhores técnicas para se destacar.',
+    imageUrl: "https://i.ibb.co/Q3MbF6v5/f5467651-271a-414b-b0f9-ba618a890c16.png",
+    tag: "Carreira",
+    users: "+ de mil alunos"
+  }
   ];
 
   const tags: TagData[] = [
